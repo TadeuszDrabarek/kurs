@@ -1,2 +1,3 @@
 To jest testowy plik pierwszy.
 To jest zmiana w pierwszym pliku.
+To jest druga zmiana w pierwszym pliku.
